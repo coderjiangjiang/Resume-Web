@@ -115,6 +115,6 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★★★ Javascript、Vue、React、CSS(Less/Sass)
+  - ★★★★★ Javascript、Vue、React、CSS(Less/Sass)
 - ★★★★☆ Node、Webpack、TypeScript
 - ★★★☆☆ Python、Redis、MongoDB
